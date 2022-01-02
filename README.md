@@ -1,2 +1,2 @@
-# -Advanced-Operating-Systems
+# Advanced Operating Systems
 A graduate Course in NSYSU
